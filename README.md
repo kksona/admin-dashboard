@@ -47,3 +47,37 @@ This is a full-stack Admin Dashboard application built using the MERN stack (Mon
    ```sh
    npm start
    ```
+
+## Snapshots  
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="" alt="Img1" width="280" style="border:1px solid #ccc; border-radius:10px;"/>
+      <br/>
+    </td>
+    <td align="center">
+      <img src="" alt="Img2" width="280" style="border:1px solid #ccc; border-radius:10px;"/>
+      <br/>
+    </td>
+    <td align="center">
+      <img src="" alt="Img3" width="280" style="border:1px solid #ccc; border-radius:10px;"/>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="" alt="Img4" width="280" style="border:1px solid #ccc; border-radius:10px;"/>
+      <br/>
+    </td>
+    <td align="center">
+      <img src="" alt="Img5" width="280" style="border:1px solid #ccc; border-radius:10px;"/>
+      <br/>
+    </td>
+    <td></td> <!-- Empty cell for spacing -->
+  </tr>
+</table>
+
+</div>
+
