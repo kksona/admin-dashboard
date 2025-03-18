@@ -54,28 +54,23 @@ This is a full-stack Admin Dashboard application built using the MERN stack (Mon
 <table>
   <tr>
     <td align="center">
-      <img src="" alt="Img1" width="280" style="border:1px solid #ccc; border-radius:10px;"/>
+      <img src="https://github.com/user-attachments/assets/d4df4153-7d30-42de-bd70-a08d6dc82710" alt="Img1" width="300" style="border:1px solid #ccc; border-radius:10px;"/>
       <br/>
     </td>
     <td align="center">
-      <img src="" alt="Img2" width="280" style="border:1px solid #ccc; border-radius:10px;"/>
-      <br/>
-    </td>
-    <td align="center">
-      <img src="" alt="Img3" width="280" style="border:1px solid #ccc; border-radius:10px;"/>
+      <img src="https://github.com/user-attachments/assets/847bfce3-fe41-403c-97e2-14a75f4bf266" alt="Img2" width="300" style="border:1px solid #ccc; border-radius:10px;"/>
       <br/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="" alt="Img4" width="280" style="border:1px solid #ccc; border-radius:10px;"/>
+      <img src="https://github.com/user-attachments/assets/373cecbf-6722-412a-870e-bb52bd14abbb" alt="Img3" width="300" style="border:1px solid #ccc; border-radius:10px;"/>
       <br/>
     </td>
     <td align="center">
-      <img src="" alt="Img5" width="280" style="border:1px solid #ccc; border-radius:10px;"/>
+      <img src="https://github.com/user-attachments/assets/dcc4eae1-747f-47d0-b8ab-6838209f097f" alt="Img4" width="300" style="border:1px solid #ccc; border-radius:10px;"/>
       <br/>
     </td>
-    <td></td> <!-- Empty cell for spacing -->
   </tr>
 </table>
 
